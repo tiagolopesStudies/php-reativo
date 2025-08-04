@@ -6,7 +6,8 @@
         }
     },
     "require": {
-        "guzzlehttp/guzzle": "^7.2"
+        "php": "^8.4",
+        "guzzlehttp/guzzle": "7.9.3"
     },
     "authors": [
         {
