@@ -3,6 +3,7 @@
 /** @var array<resource> $streams */
 $streams = [
     stream_socket_client('tcp://localhost:8080'),
+    stream_socket_client('tcp://localhost:8001'),
     fopen(__DIR__ . '/file1.txt', 'r'),
     fopen(__DIR__ . '/file2.txt', 'r'),
 ];
