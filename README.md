@@ -1,3 +1,3 @@
 # PHP Reativo
 
-Projeto do curso de programação assíncrona com PHP, da Alura.
+Projeto do curso de programação reativa com PHP, da Alura.
